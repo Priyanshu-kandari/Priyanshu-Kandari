@@ -42,7 +42,7 @@
 
 <div align="left">
   <!-- Social Links -->
-  <a href="https://linkedin.com/in/himanshukandari" target="blank">
+  <a href="https://in.linkedin.com/in/priyanshu-kandari-424b03353" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
  
