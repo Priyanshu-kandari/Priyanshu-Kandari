@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="./get.gif" alt="fun GIF" />
+<img align="right" height="150" src="./Madara.gif" alt="fun GIF" />
 
 ###
 
