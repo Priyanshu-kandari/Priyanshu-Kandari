@@ -1,114 +1,85 @@
+<h2 align="center">Supp! 👋 I'm Priyanshu Kandari and I'm on my way to be a 100xDev.</h2>
+
+###
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Full+Stack+Developer+%C2%B7+MERN+Stack;Ship+fast.+Think+deep.+Become+100x." alt="Typing SVG"/>
+</div>
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:003d1f,100:0a0a0f&height=120&section=header&text=PRIYANSHU%20KANDARI&fontSize=42&fontColor=00ff41&fontAlignY=65&animation=fadeIn&fontFamily=Courier%20New" width="100%"/>
+###
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=800&color=00FF41&background=0A0A0F00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%C2%B7+MERN+Stack;Building+things+on+the+internet+%F0%9F%9A%80;100x+in+Progress+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3;Ship+fast.+Think+deep.+Become+100x." alt="Typing SVG"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Kandari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=0a0a0f&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=f0ede6&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Kandari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=0a0a0f&border_color=00ff41&title_color=00ff41&text_color=f0ede6&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-<br/>
+###
 
-<!-- GIF in monitor style -->
-<img src="https://raw.githubusercontent.com/Priyanshu-Kandari/Priyanshu-Kandari/main/get.gif" width="340px"/>
+<img align="right" height="150" src="https://raw.githubusercontent.com/Priyanshu-Kandari/Priyanshu-Kandari/main/get.gif" alt="coding GIF" />
 
-<br/><br/>
+###
 
-<!-- STATUS BADGES -->
-![Status](https://img.shields.io/badge/⬤_Status-Open_to_Collabs-00ff41?style=flat-square&labelColor=0a0a0f&color=003d1f)
-![Location](https://img.shields.io/badge/📍_Location-India_🇮🇳-00ff41?style=flat-square&labelColor=0a0a0f&color=003d1f)
-![Focus](https://img.shields.io/badge/⚡_Focus-MERN_Stack-00ff41?style=flat-square&labelColor=0a0a0f&color=003d1f)
-![Music](https://img.shields.io/badge/🎵_Music-Always_On-00ff41?style=flat-square&labelColor=0a0a0f&color=003d1f)
-![Visitor](https://komarev.com/ghpvc/?username=Priyanshu-Kandari&color=00ff41&style=flat-square&label=profile+views&abbreviated=true)
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="Vercel" />
 
 </div>
 
----
+###
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:0a0a0f&height=2&section=header&reversal=false" width="100%"/>
+<div align="left">
+  <a href="https://in.linkedin.com/in/priyanshu-kandari-424b03353" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:preyanshukandari@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Priyanshu-Kandari" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GitHub" />
+  </a>
 </div>
 
-```zsh
-priyanshu@100x ~ $ whoami
-→ priyanshu kandari · full stack developer
+###
 
-priyanshu@100x ~ $ cat mission.txt
-→ ship fast. think deep. become 100x.
-
-priyanshu@100x ~ $ echo $HOBBY
-→ music > silence (always)
-
-priyanshu@100x ~ $ npm run build
-→ ✓ compiled in 42ms ▊
-```
-
----
+<br clear="both">
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Priyanshu-Kandari&theme=dark&background=0a0a0f&border=00ff41&ring=00ff41&fire=ffe566&currStreakLabel=00ff41&sideLabels=f0ede6&dates=4a4a5a&currStreakNum=f0ede6&sideNums=f0ede6" width="55%" />
+</div>
 
-## `// tech stack`
+###
 
-<!-- ROW 1: FRONTEND -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Kandari&bg_color=0a0a0f&color=00ff41&line=00ff41&point=ffe566&area=true&area_color=003d1f&hide_border=false&border_color=00ff41" width="95%" />
+</div>
 
-<!-- ROW 2: BACKEND + TOOLS -->
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+###
 
-<br/>
-
----
-
-## `// stats`
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Kandari&show_icons=true&count_private=true&bg_color=0a0a0f&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=f0ede6&ring_color=00ff41&hide_border=false&custom_title=priyanshu%40100x+~+stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Kandari&layout=compact&bg_color=0a0a0f&border_color=00ff41&title_color=00ff41&text_color=f0ede6&hide_border=false&custom_title=languages" width="42%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Priyanshu-Kandari&theme=dark&background=0a0a0f&border=00ff41&ring=00ff41&fire=ffe566&currStreakLabel=00ff41&sideLabels=f0ede6&dates=4a4a5a&currStreakNum=f0ede6&sideNums=f0ede6&stroke=0a0a0f" width="60%"/>
-
-<br/><br/>
-
----
-
-## `// activity`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-Kandari&bg_color=0a0a0f&color=00ff41&line=00ff41&point=ffe566&area=true&area_color=003d1f&hide_border=false&border_color=00ff41&title_color=00ff41" width="96%"/>
-
-<br/>
-
----
-
-## `// currently`
-
-| 🚀 shipping | 🎵 listening | 📈 leveling up | 🌐 open to collab |
-|:---:|:---:|:---:|:---:|
-| Full-stack MERN apps. One commit at a time. | Always a playlist running. Lofi or bust. | Obsessing over fundamentals. Compound daily. | Cool idea? Let's build something wild. |
-
-<br/>
-
----
-
-## `// connect`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/priyanshu-kandari-424b03353)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preyanshukandari@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshu-Kandari)
-[![Portfolio](https://img.shields.io/badge/🚀_Full_Animated_Profile-000000?style=for-the-badge&logoColor=00ff41&color=003d1f)](https://Priyanshu-Kandari.vercel.app)
-
-<br/>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:003d1f,100:0a0a0f&height=100&section=footer&text=ship+fast+%C2%B7+think+deep+%C2%B7+become+100x+%F0%9F%9A%80&fontSize=14&fontColor=00ff41&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-</div>~
+- 🚀 Currently building **Full Stack MERN apps** — one commit at a time
+- 🌱 On the road to **100x** — obsessing over fundamentals daily
+- 👨‍💻 All my projects are available at [priyanshu-kandari.vercel.app](https://Priyanshu-Kandari.vercel.app)
+- 📫 Reach me at **preyanshukandari@gmail.com**
+- 🌐 Open to **collabs** — cool idea? let's build something wild
+- ⚡ Fun fact: **Music > Silence (always) 🎵**
