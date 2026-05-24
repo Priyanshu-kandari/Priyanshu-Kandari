@@ -1,4 +1,4 @@
-<h2 align="center">Supp! 👋 I'm Priyanshu Kandari and I'm on my way to be a 100xDev.</h2>
+<h2 align="center">Supp! I'm Priyanshu Kandari and I'm on my way to be a 100xDev.</h2>
 
 ###
 
@@ -58,7 +58,6 @@
 
 ###
 
-- 🌱 I'm currently learning **Full Stack MERN Development**
-- 👨‍💻 All of my projects are available at [View link](https://Priyanshu-Kandari.vercel.app)
-- 📫 Reach me at **preyanshukandari@gmail.com**
-- ⚡ Fun fact: **I Love Music 🎵**
+-  I'm currently learning **Full Stack MERN Development**
+-  All of my projects are available at [View link](https://Priyanshu-Kandari.vercel.app)
+-  Reach me at **preyanshukandari@gmail.com**
