@@ -57,5 +57,4 @@
 ###
 
 -  I'm currently learning **Full Stack MERN Development**
--  All of my projects are available at [View link](https://Priyanshu-Kandari.vercel.app)
 -  Reach me at **preyanshukandari@gmail.com**
